@@ -90,22 +90,3 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-Blog-%232962FF?style=for-the-badge&logo=hashnode)](https://aghattikar82.hashnode.dev)
 
 </div>
-
----
-
-<div align="center">
-  
-  ![Visitors](https://komarev.com/ghpvc/?username=aghattikar82&color=blue&label=PROFILE+VIEWS)
-  [![wakatime](https://wakatime.com/badge/user/xxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxx.svg)](https://wakatime.com/@aghattikar82)
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
----
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/aghattikar82/aghattikar82/blob/output/github-contribution-grid-snake.svg)
-  ![Matrix Animation](https://raw.githubusercontent.com/aghattikar82/aghattikar82/main/matrix.svg)
-
-</div>
